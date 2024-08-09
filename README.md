@@ -4,8 +4,8 @@ WifiJammer works on python3. It use the different library of python like threadi
 
 Aircrack-ng is a complete suite of tools to assess WiFi network security. We can use it for scanning and sending different type of packets wirelessly. https://www.aircrack-ng.org/
 
-Video demonstration Link: https://www.linkedin.com/posts/pranav-gajjar_python-ethicalhacking-wifijammer-activity-6688490914454753280-dqGQ
-
+creater profile Link: https://www.linkedin.com/in/soyam-arya-a90356312/?originalSubdomain=in
+Git Hub link : https://github.com/HC4honestCorrupt/wifi-jammer.git 
 ## Requirement 
 * Wifi Adapter (Support Monitor Mode)
 * python3
