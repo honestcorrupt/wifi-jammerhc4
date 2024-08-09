@@ -1,0 +1,14 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+24:0B:88:26:90:89, 2024-08-06 06:25:50, 2024-08-06 06:26:06, 11, 130, WPA2, CCMP TKIP, PSK, -70,       38,       69,   0.  0.  0.  0,  16, Airtel_Zerotouch, 
+26:0B:88:46:90:89, 2024-08-06 06:25:50, 2024-08-06 06:26:06, 11, 130, WPA2, CCMP, PSK, -70,       40,        0,   0.  0.  0.  0,   0, , 
+F0:ED:B8:FD:76:AD, 2024-08-06 06:25:51, 2024-08-06 06:26:04, 10, 130, WPA2, CCMP, PSK, -83,       16,       13,   0.  0.  0.  0,  13, JioFiberJBTT1, 
+48:93:DC:0B:AF:08, 2024-08-06 06:25:51, 2024-08-06 06:26:03,  8, 270, WPA2, CCMP TKIP, PSK, -82,       20,        0,   0.  0.  0.  0,  14, FTTH-BSNL_AF08, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+36:ED:D2:29:F7:95, 2024-08-06 06:25:53, 2024-08-06 06:25:53, -79,        2, (not associated) ,
+E2:94:43:B2:26:77, 2024-08-06 06:25:53, 2024-08-06 06:26:03,  -1,       13, F0:ED:B8:FD:76:AD,
+D8:32:E3:EA:98:6C, 2024-08-06 06:25:53, 2024-08-06 06:26:03, -85,        4, F0:ED:B8:FD:76:AD,
+9C:28:F7:C9:B1:80, 2024-08-06 06:25:53, 2024-08-06 06:26:04, -83,        7, F0:ED:B8:FD:76:AD,
+FC:19:99:45:53:37, 2024-08-06 06:25:54, 2024-08-06 06:25:54, -87,        3, 24:0B:88:26:90:89,
+
